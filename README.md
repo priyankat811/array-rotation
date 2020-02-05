@@ -3,7 +3,7 @@ Rotate the array elements by the given no. of positions to the right.
 
 Steps to run the code:
 1. Clone the repository on your system.
-2. Navigate to the folder where you have cloned the repository in command prompt.
+2. Navigate to the folder in command prompt where you have cloned the repository.
 3. Run this command: node array_rotation.js
 
 After running the above command you will be able see the output as:
