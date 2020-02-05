@@ -7,5 +7,7 @@ Steps to run the code:
 3. Run this command: node array_rotation.js
 
 After running the above command you will be able see the output as:
+
 Array before shifting: 1,2,3,4,5,6,7,8
+
 Array after shifting: 7,8,1,2,3,4,5,6
